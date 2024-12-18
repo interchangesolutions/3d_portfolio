@@ -241,7 +241,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Cascade Flow Automation',
         description: 'This project was developed to automate the data processing tasks for John Carl Begly, a Neuroscience PhD Candidate at Charite University. The automation significantly streamlines the collection, analysis, and visualization of neuroscience data, enhancing research efficiency and accuracy.',
-        link: 'https://github.com/jay-cee-begs/suite_cascade_spikes.git',
+        link: 'https://github.com/jay-cee-begs',
     },
     {
         iconUrl: capsule,
